@@ -8,8 +8,8 @@ Randomly sampled and labeled 2000 SMS (including normal and gambling SMS, few fr
 
 ## Part 2
 
-Randomly sampled 360 samples from the reported fraud SMS.
+Randomly sampled 360 SMS from the reported data.
 
 ## Part 3
 
-Randomly sampled 120 samples from the collected sms from volunteers.
+Randomly sampled 120 SMS from the volunteers.
